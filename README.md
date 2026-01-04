@@ -23,9 +23,25 @@ I am a Computer Engineer who loves building efficient applications. I specialize
 
 ---
 
-### 📈 My GitHub Activity
+### 📊 My Activity & Stats
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cebe123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/commit-activity/m/cebe123?style=for-the-badge&color=7F52FF&label=Commits" alt="Commits" />
+  <img src="https://img.shields.io/github/repo-count/cebe123?style=for-the-badge&color=3DDC84&label=Projects" alt="Projects" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cebe123&show_icons=true&theme=tokyonight" alt="Adnan's Stats" />
+</p>
+
+---
+
+### 🚀 Technical Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
