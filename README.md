@@ -1,42 +1,34 @@
 # Hi there! I'm Adnan Cebe 👋
+**Computer Engineer | Mobile & Automation Developer**
+
+---
 
 ### 👨‍💻 About Me
-I am a passionate software developer focused on building applications that make life easier. I specialize in Mobile Application Development (Android & Flutter) and have a keen interest in system-level programming. I believe in building every project with passion and care ♥️.
+I am a Computer Engineer who loves building efficient applications. I specialize in **Android (Kotlin)** and **Flutter**, while also exploring the world of **AI and Python automation**. Every project I build is crafted with passion and attention to detail ♥️.
 
-- 🔭 I’m currently deep-diving into **Mobile App Architectures**.
-- 🌱 I’m constantly improving my skills in the **Kotlin** and **Dart/Flutter** ecosystems.
-- 👯 I love collaborating with developer communities and contributing to open-source projects.
-- 💬 Ask me about **Android development**, **UI/UX design**, or anything related to the **software world**.
+- 🔭 Currently focusing on **Advanced Android Architectures**.
+- 🌱 Improving my skills in **C++** and **Python for AI**.
+- 💬 Ask me about: Android, Kotlin, Flutter, or automation scripts.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnancebe/)
 
 ---
 
-### 🚀 Skills & Tools
+### 🛠 Skills & Tech Stack
 
-| Category | Technologies |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Frameworks** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
 
 ---
 
-### 📊 My GitHub Stats
-
+### 📈 My GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cebe123&show_icons=true&theme=tokyonight" alt="Adnan's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cebe123&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cebe123&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-- **LinkedIn:** [in/adnancebe](https://www.linkedin.com/in/adnancebe/)
-- **Location:** Istanbul, Turkey 📍
 
 ---
 <p align="center">
-  <i>"Coding is an art, and every line is a signature."</i> ♥️
+  <i>"Crafting code with precision and ♥️"</i>
 </p>
