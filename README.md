@@ -1,5 +1,5 @@
 # Hi there! I'm Adnan Cebe 👋
-**Computer Engineer | Mobile & Automation Developer**
+**Computer Engineer | Mobile Developer**
 
 ---
 
