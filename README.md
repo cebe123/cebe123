@@ -1,4 +1,4 @@
-# Hi there! I'm Adnan Cebe 👋
+# Hi there! I'm Adnan Cebe
 **Computer Engineer | Mobile Developer**
 
 ---
@@ -24,10 +24,6 @@ I am a Computer Engineer who loves building efficient applications. I specialize
 ---
 
 ### 📊 My Activity & Stats
-<p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/cebe123?style=for-the-badge&color=7F52FF&label=Commits" alt="Commits" />
-  <img src="https://img.shields.io/github/repo-count/cebe123?style=for-the-badge&color=3DDC84&label=Projects" alt="Projects" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cebe123&show_icons=true&theme=tokyonight" alt="Adnan's Stats" />
